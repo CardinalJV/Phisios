@@ -11,3 +11,27 @@
 # Phisios
 
 Sports game that shows physics behind sports
+
+## Features
+
+* Explore the physics behind sports through interactive real-time simulations.
+* Adjust key parameters such as angle, speed, force, and trajectory to instantly see their effects.
+* Basketball: analyze shot trajectories and understand how launch angles affect scoring chances.
+* Soccer: study passes, shots, and ball spin to see how they influence movement.
+* Archery: visualize arrow flight paths based on power, angle, and environmental factors.
+* Formula 1: explore the impact of speed, acceleration, braking, and cornering on vehicle performance.
+* Billiards: understand collisions, rebounds, and energy transfer between balls.
+* Learn through experimentation by applying physics concepts across five popular sports in an engaging and interactive way.
+
+## Technical details
+
+- Languages : Swift
+- Frameworks : SwiftUI
+- SDK : SpriteKit
+- Architecture : Modular
+- Version iOS : iOS 26
+
+## Credits
+
+This project was realised in collaboration with GIORGIA MINETTI, SABRINA BONETTI, PARHAM KARBASI, FRANCESCO TESSITORE, DANIYAR YEGEUBAY and IFTEKHAR ANWAR.
+Team Secret API - Apple developer academy - Challenge 7
