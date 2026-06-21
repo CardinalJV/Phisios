@@ -15,15 +15,7 @@ Sports game that shows physics behind sports
 ## Screenrecord
 
 <p align="center">
-
-  <video width="600" controls>
-
-    <source src="https://github.com/user-attachments/assets/bb41b46c-1f85-46b0-813a-20819d3a7e92" type="video/mp4">
-
-    Votre navigateur ne supporte pas la vidéo.
-
-  </video>
-
+https://github.com/user-attachments/assets/bb41b46c-1f85-46b0-813a-20819d3a7e92
 </p>
 
 ## Features
