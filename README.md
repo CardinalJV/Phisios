@@ -14,7 +14,7 @@ Sports game that shows physics behind sports
 
 ## Screenrecord
 
-<div align="center">
+<p align="center">
 
   <video width="600" controls>
 
@@ -24,7 +24,7 @@ Sports game that shows physics behind sports
 
   </video>
 
-</div>
+</p>
 
 ## Features
 
