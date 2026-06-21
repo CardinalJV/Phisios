@@ -34,4 +34,5 @@ Sports game that shows physics behind sports
 ## Credits
 
 This project was realised in collaboration with GIORGIA MINETTI, SABRINA BONETTI, PARHAM KARBASI, FRANCESCO TESSITORE, DANIYAR YEGEUBAY and IFTEKHAR ANWAR.
+<br>
 Team Secret API - Apple developer academy - Challenge 7
