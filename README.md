@@ -12,6 +12,11 @@
 
 Sports game that shows physics behind sports
 
+## Available 
+
+<a href="https://apps.apple.com/fr/app/phisios/id6774389571?l=en-GB">App store</a>
+<a href="https://phisios-website.vercel.app">Official website</a>
+
 ## Screenrecord
 
 https://github.com/user-attachments/assets/3838f6a5-0fc2-45cc-9a7a-f86d3a01e2a2
