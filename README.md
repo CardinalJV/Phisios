@@ -4,9 +4,6 @@
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="Logo SwiftUI" title="SwiftUI" width="68.5" height="68.5"/></a>
 <a href="https://developer.apple.com/documentation/spritekit?changes=lat_1"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/spritekit-96x96_2x.png" alt="Logo SpriteKit" title="SpriteKit" width="68.5" height="68.5"/></a>
-<br>
-<a href="https://apps.apple.com/fr/app/phisios/id6774389571?l=en-GB"> 
-  <img src="https://github.com/CardinalJV/CardinalJV/blob/main/assets/logo-swift/app-store-s-96x96_2x.png" alt="Logo App Store" title="App Store" width="68.5" height="68.5"/></a>
 
 # Phisios
 
@@ -20,7 +17,7 @@ Sports game that shows physics behind sports
 
 ## Screenrecord
 
-https://github.com/user-attachments/assets/3838f6a5-0fc2-45cc-9a7a-f86d3a01e2a2
+https://github.com/user-attachments/assets/5235a557-94bf-4648-ae9e-879d1585dbe4
 
 ## Features
 
