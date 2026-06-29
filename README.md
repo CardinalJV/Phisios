@@ -7,6 +7,10 @@
 
 # Phisios
 
+<p align="center">
+  <img src="Phisios-Icon.png" alt="Logo" width="100">
+</p>
+
 Sports game that shows physics behind sports
 
 ## Available 
