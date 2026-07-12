@@ -8,10 +8,9 @@
 # Phisios
 
 <p align="center">
-  <img src="Phisios-Icon.png" alt="Logo" width="100">
+  <img src="Phisios-Icon.png" alt="Logo" width="100"><br>
+  Sports game that shows physics behind sports
 </p>
-
-Sports game that shows physics behind sports
 
 ## Available 
 
